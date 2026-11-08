@@ -1,0 +1,23 @@
+{
+  "configurations": [
+    {
+      "id": "6B4E49F5-6ED3-43E7-AB1F-2910FEC3EA1C",
+      "name": "Configuration 1",
+      "options": {}
+    }
+  ],
+  "defaultOptions": {
+    "uiTestingScreenshotsLifetime": "keepNever",
+    "userAttachmentLifetime": "keepNever"
+  },
+  "testTargets": [
+    {
+      "target": {
+        "containerPath": "container:UIFlowDriver.xcodeproj",
+        "identifier": "D65C4B7A3118DE28870387AF",
+        "name": "UIFlowDriverTests"
+      }
+    }
+  ],
+  "version": 1
+}

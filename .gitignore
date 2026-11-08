@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.xcuserdatad/
+xcuserdata/
+DerivedData/
+*.bak-*
